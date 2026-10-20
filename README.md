@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Olen Miikka Lahtinen. Toisen vuoden tieto- ja viestintätekniikan insinööriopiskelija.
+Olen Miikka Lahtinen. Toisen neljännen tieto- ja viestintätekniikan insinööriopiskelija.
 
 <!--
 **miikka237/miikka237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
